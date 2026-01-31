@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/gitcrusher/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/gitcrusher/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/gitcrusher/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/gitcrusher/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gitcrusher/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gitcrusher/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/gitcrusher/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/gitcrusher/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/gitcrusher/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
