@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/gitcrusher/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gitcrusher/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/gitcrusher/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [1552-magnetic-force-between-two-balls](https://github.com/gitcrusher/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gitcrusher/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/gitcrusher/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/gitcrusher/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/gitcrusher/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [1552-magnetic-force-between-two-balls](https://github.com/gitcrusher/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gitcrusher/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/gitcrusher/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gitcrusher/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/gitcrusher/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [1552-magnetic-force-between-two-balls](https://github.com/gitcrusher/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
