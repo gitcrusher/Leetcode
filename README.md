@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/gitcrusher/Leetcode/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gitcrusher/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/gitcrusher/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0946-validate-stack-sequences](https://github.com/gitcrusher/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gitcrusher/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gitcrusher/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/gitcrusher/Leetcode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/gitcrusher/Leetcode/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/gitcrusher/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/gitcrusher/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Queue
 |  |
@@ -128,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/gitcrusher/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gitcrusher/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/gitcrusher/Leetcode/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/gitcrusher/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/gitcrusher/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
