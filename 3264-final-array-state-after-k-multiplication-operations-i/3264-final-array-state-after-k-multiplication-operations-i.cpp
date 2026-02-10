@@ -18,7 +18,7 @@ public:
             int val = top.first;
             val=val*multiplier; 
             nums[idx]=val;
-            pq.push({val,idx});  
+            pq.push({val,idx});  // hume ise bhi push krna parega ko sakta hai koi case phas jaye shayad
         }
         return nums;
     }
