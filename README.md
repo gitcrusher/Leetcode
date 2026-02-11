@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/gitcrusher/Leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitcrusher/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitcrusher/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gitcrusher/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gitcrusher/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gitcrusher/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/gitcrusher/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitcrusher/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitcrusher/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gitcrusher/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gitcrusher/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gitcrusher/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/gitcrusher/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/gitcrusher/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/gitcrusher/Leetcode/tree/master/0767-reorganize-string) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gitcrusher/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -155,11 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gitcrusher/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/gitcrusher/Leetcode/tree/master/0767-reorganize-string) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gitcrusher/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Greedy
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/gitcrusher/Leetcode/tree/master/0767-reorganize-string) |
 | [0826-most-profit-assigning-work](https://github.com/gitcrusher/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gitcrusher/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Stack
 |  |
 | ------- |
