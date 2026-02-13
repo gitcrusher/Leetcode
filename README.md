@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitcrusher/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gitcrusher/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gitcrusher/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/gitcrusher/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gitcrusher/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/gitcrusher/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/gitcrusher/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/gitcrusher/Leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/gitcrusher/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/gitcrusher/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gitcrusher/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -260,10 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gitcrusher/Leetcode/tree/master/0078-subsets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/gitcrusher/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gitcrusher/Leetcode/tree/master/0078-subsets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/gitcrusher/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Trie
 |  |
 | ------- |
@@ -273,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gitcrusher/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/gitcrusher/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/gitcrusher/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/gitcrusher/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
