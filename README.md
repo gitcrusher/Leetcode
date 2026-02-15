@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gitcrusher/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gitcrusher/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitcrusher/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/gitcrusher/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gitcrusher/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/gitcrusher/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gitcrusher/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitcrusher/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/gitcrusher/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gitcrusher/Leetcode/tree/master/0767-reorganize-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gitcrusher/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitcrusher/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/gitcrusher/Leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitcrusher/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gitcrusher/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitcrusher/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gitcrusher/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
