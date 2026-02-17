@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/gitcrusher/Leetcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/gitcrusher/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/gitcrusher/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gitcrusher/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gitcrusher/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gitcrusher/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gitcrusher/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gitcrusher/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gitcrusher/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gitcrusher/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Geometry
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gitcrusher/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gitcrusher/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
