@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/gitcrusher/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/gitcrusher/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/gitcrusher/Leetcode/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,11 +220,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/gitcrusher/Leetcode/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/gitcrusher/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/gitcrusher/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/gitcrusher/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/gitcrusher/Leetcode/tree/master/0901-online-stock-span) |
+| [2487-remove-nodes-from-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
