@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/gitcrusher/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gitcrusher/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/gitcrusher/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gitcrusher/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/gitcrusher/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/gitcrusher/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/gitcrusher/Leetcode/tree/master/1046-last-stone-weight) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/gitcrusher/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gitcrusher/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0826-most-profit-assigning-work](https://github.com/gitcrusher/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/gitcrusher/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gitcrusher/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gitcrusher/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
