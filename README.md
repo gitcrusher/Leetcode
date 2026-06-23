@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gitcrusher/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/gitcrusher/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/gitcrusher/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/gitcrusher/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/gitcrusher/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/gitcrusher/Leetcode/tree/master/0242-valid-anagram) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gitcrusher/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/gitcrusher/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gitcrusher/Leetcode/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/gitcrusher/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/gitcrusher/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/gitcrusher/Leetcode/tree/master/0826-most-profit-assigning-work) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/gitcrusher/Leetcode/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gitcrusher/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/gitcrusher/Leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/gitcrusher/Leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/gitcrusher/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gitcrusher/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
