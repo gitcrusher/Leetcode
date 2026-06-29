@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gitcrusher/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/gitcrusher/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gitcrusher/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1929-concatenation-of-array](https://github.com/gitcrusher/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gitcrusher/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitcrusher/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/gitcrusher/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/gitcrusher/Leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/gitcrusher/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1929-concatenation-of-array](https://github.com/gitcrusher/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/gitcrusher/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gitcrusher/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Queue
