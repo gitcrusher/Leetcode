@@ -26,7 +26,7 @@ public:
         sort(nums.begin(),nums.end());
 
         //fixing the one element.
-        for(int i = 0 ; i < n ;i++ ){
+        for(int i = 0 ; i <=n-3 ;i++ ){
             if(i>0 && nums[i]==nums[i-1])continue;
             int n1 = nums[i];
             int target = -n1;
