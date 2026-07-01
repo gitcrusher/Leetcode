@@ -1,34 +1,37 @@
 class Solution {
 public:
-    vector<vector<int>>result;
-    void twoSum(vector<int>&nums, int target, int i, int j){
-        while(i<j){
-            if(nums[i]+nums[j]>target) j--;
-            else if(nums[i]+nums[j]<target)i++;
+    vector<vector<int>> result;
+    void twoSum(vector<int>&nums, int target, int l, int r ){
+        while(l<r){
+            if(nums[l]+nums[r]>target)r--;
+            else if(nums[l]+nums[r]<target)l++;
             else{
-                // first we will remove duplicates from either end (i,j)
-                while(i<j && nums[i]==nums[i+1])i++;
-                while(i<j && nums[j]==nums[j-1])j--;
-                result.push_back({-target, nums[i], nums[j]});
-                i++;
-                j--;
+                //first we have to remove duplicates then
+                while(l<r && nums[l]==nums[l+1])l++;
+                while(l<r && nums[r]==nums[r-1])r--;
+                result.push_back({-target,nums[l],nums[r]});
+                l++;
+                r--;
             }
         }
     }
 
+
     vector<vector<int>> threeSum(vector<int>& nums) {
         int n = nums.size();
         if(n<3)return {};
+        result.clear();
 
+        //sort it
         sort(nums.begin(),nums.end());
 
-        for(int i = 0 ; i < n; i++){
-            if(i>0 && nums[i]==nums[i-1]) continue;// it check for the duplicate while setting n1
-            int n1= nums[i];
+        //fixing the one element.
+        for(int i = 0 ; i < n ;i++ ){
+            if(i>0 && nums[i]==nums[i-1])continue;
+            int n1 = nums[i];
             int target = -n1;
-            twoSum(nums, target, i+1, n-1);// it would find n2 and n3
+            twoSum(nums,target,i+1,n-1);
         }
-       
-    return result;
+        return result;
     }
 };
