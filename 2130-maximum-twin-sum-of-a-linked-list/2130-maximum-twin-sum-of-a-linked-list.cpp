@@ -11,12 +11,14 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
+        //finding mid node
         ListNode* slow = head;
         ListNode* fast = head;
         while(fast!=nullptr && fast->next!=nullptr){
             slow = slow->next;
             fast = fast->next->next;
         }
+        // do the reversal from mid.
         ListNode* mid = slow;
 
         ListNode* prev = NULL;
@@ -28,7 +30,7 @@ public:
             prev = mid;
             mid = nextNode;
         }
-
+        // from mid calculate the sum of both the pointers
         int result = 0; 
         ListNode* curr = head;
         while(prev!=nullptr){
