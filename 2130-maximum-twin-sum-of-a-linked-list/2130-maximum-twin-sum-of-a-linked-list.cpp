@@ -11,45 +11,33 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-        int len = 0 ;
-        ListNode* temp1 = head;
-        while(temp1){
-            len++;
-            temp1= temp1->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast!=nullptr && fast->next!=nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        ListNode* mid = slow;
+
+        ListNode* prev = NULL;
+        ListNode* nextNode = NULL;
+
+        while(mid!=nullptr){
+            nextNode = mid->next;
+            mid->next = prev ;
+            prev = mid;
+            mid = nextNode;
         }
 
-
-        ListNode* newhead = nullptr;
-        ListNode* newtail = nullptr;
-        ListNode* temp = head;
-
-        while(temp){
-            ListNode* newnode = new ListNode(temp->val);
-            if(newhead==nullptr){
-                newhead = newnode;
-                newtail = newnode;
-            }else{
-                newtail->next = newnode;
-                newtail = newnode;
-            }
-            temp=temp->next;
-        }
-
-        ListNode* prev = nullptr, *next = nullptr, *curr = newhead;
-        while(curr){
-            next = curr->next;
-            curr->next = prev;
-            prev= curr;
-            curr = next;
-        }
-        //return prev 
-        int maxi = INT_MIN;
-        for(int i = 0 ; i < len/2; i++){
-            int sum = head->val+prev->val;
-            maxi = max(maxi,sum);
-            head = head->next;
+        int result = 0; 
+        ListNode* curr = head;
+        while(prev!=nullptr){
+            result = max(result, curr->val+prev->val);
+            curr = curr->next;
             prev = prev->next;
         }
-        return maxi; 
+
+        return result;
+
     }
 };
