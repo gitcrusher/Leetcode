@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/gitcrusher/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/gitcrusher/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gitcrusher/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/gitcrusher/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gitcrusher/Leetcode/tree/master/0767-reorganize-string) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gitcrusher/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitcrusher/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Prefix Sum
