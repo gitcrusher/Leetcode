@@ -19,7 +19,8 @@ public:
                 //if the size matches then check wether all the element are zeroes or not if all zeroes increase sum value
                 if(allzero(mp)) matched.push_back(l);
                 // now also have to retain back the map frequency to normal for the element which are not gonna be use or get zero such as "c" in the case of cbaebabacd on its r++ and r = 4
-                if(mp.find(s[l])!=mp.end()) mp[s[l]]++;
+                if(mp.find(s[l])!=mp.end()) mp[s[l]]++; // here we gonna make c = 1 except others..
+
                 // for shrinking
                 l++;
             }
