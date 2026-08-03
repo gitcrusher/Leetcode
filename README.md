@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/gitcrusher/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gitcrusher/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/gitcrusher/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/gitcrusher/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/gitcrusher/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/gitcrusher/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/gitcrusher/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/gitcrusher/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gitcrusher/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/gitcrusher/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0904-fruit-into-baskets](https://github.com/gitcrusher/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/gitcrusher/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/gitcrusher/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sorting
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gitcrusher/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/gitcrusher/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gitcrusher/Leetcode/tree/master/0767-reorganize-string) |
+| [0904-fruit-into-baskets](https://github.com/gitcrusher/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gitcrusher/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitcrusher/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
