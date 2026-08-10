@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/gitcrusher/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitcrusher/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/gitcrusher/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2963-count-the-number-of-good-partitions](https://github.com/gitcrusher/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gitcrusher/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Sliding Window
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/gitcrusher/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/gitcrusher/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2963-count-the-number-of-good-partitions](https://github.com/gitcrusher/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/gitcrusher/Leetcode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/gitcrusher/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gitcrusher/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2963-count-the-number-of-good-partitions](https://github.com/gitcrusher/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/gitcrusher/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gitcrusher/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/gitcrusher/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2963-count-the-number-of-good-partitions](https://github.com/gitcrusher/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 ## Enumeration
 |  |
 | ------- |
