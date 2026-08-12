@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/gitcrusher/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/gitcrusher/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/gitcrusher/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/gitcrusher/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [0973-k-closest-points-to-origin](https://github.com/gitcrusher/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/gitcrusher/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gitcrusher/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/gitcrusher/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0826-most-profit-assigning-work](https://github.com/gitcrusher/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0905-sort-array-by-parity](https://github.com/gitcrusher/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0962-maximum-width-ramp](https://github.com/gitcrusher/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/gitcrusher/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gitcrusher/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/gitcrusher/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/gitcrusher/Leetcode/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/gitcrusher/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/gitcrusher/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/gitcrusher/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/gitcrusher/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/gitcrusher/Leetcode/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/gitcrusher/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gitcrusher/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
