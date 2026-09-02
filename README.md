@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gitcrusher/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/gitcrusher/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/gitcrusher/Leetcode/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/gitcrusher/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/gitcrusher/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gitcrusher/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gitcrusher/Leetcode/tree/master/0078-subsets) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gitcrusher/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/gitcrusher/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/gitcrusher/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/gitcrusher/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gitcrusher/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gitcrusher/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gitcrusher/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gitcrusher/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/gitcrusher/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/gitcrusher/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/gitcrusher/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/gitcrusher/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gitcrusher/Leetcode/tree/master/0169-majority-element) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gitcrusher/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/gitcrusher/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/gitcrusher/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/gitcrusher/Leetcode/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/gitcrusher/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gitcrusher/Leetcode/tree/master/0242-valid-anagram) |
