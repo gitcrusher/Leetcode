@@ -11,42 +11,32 @@
  */
 class Solution {
 public:
-    int height(TreeNode* root){
-        if(root==nullptr)return 0;
-        return 1+max(height(root->left),height(root->right));
-    }
-
-    void collectLevel(TreeNode* root, int level, vector<int>& temp) {
-    if (!root) return;
-
-    if (level == 1) {
-        temp.push_back(root->val);
-        return;
-    }
-
-    collectLevel(root->left, level - 1, temp);
-    collectLevel(root->right, level - 1, temp);
-}
-
-    void traversal( TreeNode* root, int level, int maxLevel,vector<vector<int>>& ans){
-
-        if (level > maxLevel)
-        return;
-        vector<int> temp;              // 🔹 har level par naya vector
-        collectLevel(root, level, temp);
-        ans.push_back(temp);
-        traversal(root, level + 1, maxLevel, ans);
-
-
-    }
-
     vector<vector<int>> levelOrder(TreeNode* root) {
-
-
-        vector<vector<int>> ans;
-        int h = height(root);
-        traversal(root, 1, h, ans);
-        return ans;
+        queue<TreeNode*>q;
+        vector<vector<int>>res;
+        if(root==nullptr)return {};
+        q.push(root);
+        while(!q.empty()){
+            vector<int>ans;
+            // cout<<q.size();
+            int n = q.size();
+            for(int i = 0 ; i < n; i++){
+                cout << i<< " ";
+                TreeNode* node = q.front();
+                ans.push_back(node->val);
+                q.pop();
+                if(node->left!=nullptr){
+                    q.push(node->left);
+                }
+                if(node->right!=nullptr){
+                    q.push(node->right);
+                }
+                
+            }
+        cout << endl;
+            res.push_back(ans);
+        }
+        return res;
 
     }
 };
